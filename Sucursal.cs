@@ -3,7 +3,7 @@
 public class Sucursal
 {
 	private String direccion;
-	public Sucursal()
+	public Sucursal(String direccion)
 	{
 	}
 }
